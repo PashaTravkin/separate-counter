@@ -1,0 +1,48 @@
+.counterWrapper {
+    display: flex;
+    flex-direction: column;
+    width: 400px;
+    height: 200px;
+    margin: 100px 0 0 0;
+    padding: 30px;
+    border: 3px solid #5ccdef;
+    border-radius: 10px;
+    background: #646b68;
+}
+
+.windowChangingNumber {
+    background: #5ccdef;
+    border-radius: 10px;
+    width: 100%;
+    height: 60%;
+
+}
+
+.changingNumber {
+    display: flex;
+    justify-content: center;
+    font-size: 70px;
+    font-weight: bold;
+}
+
+.red {
+    color: red;
+}
+
+.green{
+    margin: 10px;
+    color: green;
+    font-size: 44px;
+}
+
+.redError {
+    color: red;
+    font-size: 40px;
+    margin-top: 10px;
+}
+
+.settings {
+    display: flex;
+    justify-content: center;
+}
+
