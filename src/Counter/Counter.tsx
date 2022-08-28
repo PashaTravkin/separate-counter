@@ -1,4 +1,4 @@
-import React, {useEffect, useState} from 'react';
+import React, {useEffect} from 'react';
 import s from './Counter.module.css';
 import {IncreaseReset} from "../IncreaseReset/IncreaseReset";
 
